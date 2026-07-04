@@ -2,7 +2,7 @@
 
 An end-to-end data analytics project that cleans, models, and visualizes a year of pizza sales transactions (Jan–Dec 2015) to surface revenue trends, best/worst sellers, and ordering patterns for a pizza restaurant chain.
 
-![Dashboard Preview](assets/dashboard-home.jpg)
+![Dashboard Preview](dashboard-best-worst.jpg)
 
 ---
 
