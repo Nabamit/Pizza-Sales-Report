@@ -63,7 +63,7 @@ We need to analyze key indicators for the pizza sales data to gain insight into 
 
 ## 🗂 Dataset
 
-Source file: [`pizza_sales.csv`](./data/pizza_sales.csv)
+Source file: [`pizza_sales.csv`](pizza_sales.csv)
 
 | Column | Description |
 |---|---|
@@ -213,7 +213,7 @@ Order Month = UPPER(LEFT(pizza_sales[Month Name], 3))
 
 ## 🗃 SQL Analysis
 
-All KPI, trend, and ranking queries were replicated in T-SQL against a `pizza_sales` table — see the full script here: [`sql/pizza_sales_queries.sql`](./sql/pizza_sales_queries.sql)
+All KPI, trend, and ranking queries were replicated in T-SQL against a `pizza_sales` table — see the full script here: [`pizza_sales_queries.sql`](pizza_sales_queries.sql)
 
 **Highlights:**
 
@@ -248,7 +248,7 @@ The full script also covers: % of Sales by Category/Size, Total Pizzas Sold by C
 ## 📊 Dashboard
 
 ### Page 1 — Home (KPIs & Trends)
-![Pizza Sales Dashboard - Home](dashboard_home.png)
+![Pizza Sales Dashboard - Home](dashboard-home.jpg)
 
 - KPI cards: Total Revenue, Avg Order Value, Total Pizzas Sold, Total Orders, Avg Pizzas Per Order
 - Daily Trend for Total Orders (Sun → Sat)
@@ -258,7 +258,7 @@ The full script also covers: % of Sales by Category/Size, Total Pizzas Sold by C
 - Total Pizzas Sold by Pizza Category
 
 ### Page 2 — Best & Worst Sellers
-![Pizza Sales Dashboard - Best/Worst](dashboard_best_worst.png)
+![Pizza Sales Dashboard - Best/Worst](dashboard-best-worst.jpg)
 
 - Top 5 / Bottom 5 Pizzas by Revenue
 - Top 5 / Bottom 5 Pizzas by Quantity
