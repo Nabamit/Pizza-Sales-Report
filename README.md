@@ -248,7 +248,7 @@ The full script also covers: % of Sales by Category/Size, Total Pizzas Sold by C
 ## 📊 Dashboard
 
 ### Page 1 — Home (KPIs & Trends)
-![Pizza Sales Dashboard - Home](./screenshots/dashboard_home.png)
+![Pizza Sales Dashboard - Home](dashboard_home.png)
 
 - KPI cards: Total Revenue, Avg Order Value, Total Pizzas Sold, Total Orders, Avg Pizzas Per Order
 - Daily Trend for Total Orders (Sun → Sat)
@@ -258,7 +258,7 @@ The full script also covers: % of Sales by Category/Size, Total Pizzas Sold by C
 - Total Pizzas Sold by Pizza Category
 
 ### Page 2 — Best & Worst Sellers
-![Pizza Sales Dashboard - Best/Worst](./screenshots/dashboard_best_worst.png)
+![Pizza Sales Dashboard - Best/Worst](dashboard_best_worst.png)
 
 - Top 5 / Bottom 5 Pizzas by Revenue
 - Top 5 / Bottom 5 Pizzas by Quantity
